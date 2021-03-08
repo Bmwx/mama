@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Server 4P</title>
+   
 <div style="position: absolute;  
 vertical-align: top;  
 text-align: left;  
