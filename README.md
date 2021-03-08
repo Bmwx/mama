@@ -20,16 +20,14 @@ vertical-align: top;
 text-align: left;  
 top: 0px;  
 left: 20px;">
-<iframe id="Frame1" src="//4-p.org/HDplayer/miniphp/radiostream.php?ip=radio.4-p.org:8063?send="align="middle" scrolling="no" frameborder="0" 
-style="width:343px;  height:150px; border: 0px;" ></iframe>
+
 </div>
 <div style="position: absolute;  
 vertical-align: top;  
 text-align: left; 
 top: 0px;  
 left: 49px;">
-<iframe id="Frame1" src="//4-p.org/HDplayer/miniphp/cover.php?ip=radio.4-p.org:8063?send="align="middle" scrolling="no" frameborder="0" 
-style="width:90px;  height:90px; border: 0px;" ></iframe></div></div>
+</div></div>
 </div>
 <div style="position: absolute;  
 vertical-align: top;  
@@ -80,7 +78,7 @@ left: 57px;">
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
 MRP.insert({
-'url':'http://144.76.15.238:8063/;',
+'url':'https://server4p.com:7011/;',
 'codec':'mp3',
 'volume':100,
 'autoplay':true,
